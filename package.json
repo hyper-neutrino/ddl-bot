@@ -1,0 +1,28 @@
+{
+    "name": "@daedalus-discord/bot",
+    "version": "0.0.1",
+    "description": "Daedalus framework built on discord.js",
+    "main": "./dist/index.js",
+    "scripts": {},
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hyper-neutrino/ddl-bot.git"
+    },
+    "keywords": [
+        "daedalus",
+        "discord"
+    ],
+    "author": "hyper-neutrino",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hyper-neutrino/ddl-bot/issues"
+    },
+    "homepage": "https://github.com/hyper-neutrino/ddl-bot#readme",
+    "dependencies": {
+        "discord.js": "^14.7.1"
+    },
+    "devDependencies": {
+        "prettier-plugin-jsdoc": "^0.4.2"
+    }
+}
